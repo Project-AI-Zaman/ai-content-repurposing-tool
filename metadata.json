@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Repurposing Tool",
+  "description": "An AI-powered tool for content creators that takes long-form content (like blog posts or transcripts) and automatically generates multiple short-form pieces for platforms like Twitter, LinkedIn, TikTok, and more, saving time and maximizing content reach.",
+  "requestFramePermissions": []
+}
